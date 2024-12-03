@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Juego Simple</string>
+    <string name="score_text">Puntaje: %1$d</string>
+    <string name="score_text_placeholder">Puntaje: 0</string>
+    <string name="button_1">Botón 1</string>
+    <string name="button_2">Botón 2</string>
+    <string name="button_3">Botón 3</string>
+</resources>

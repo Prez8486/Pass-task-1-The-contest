@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Passtask1Thecontest</string>
+    <string name="score_text">Score: %1$d</string>
+    <string name="score_text_placeholder">Score: 0</string>
+    <string name="button_1">Add</string>
+    <string name="button_2">Subtract</string>
+    <string name="button_3">Reset</string>
+</resources>
